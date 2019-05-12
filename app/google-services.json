@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "366472440836",
+    "firebase_url": "https://insta-9a1ac.firebaseio.com",
+    "project_id": "insta-9a1ac",
+    "storage_bucket": "insta-9a1ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366472440836:android:93581743ae675a28",
+        "android_client_info": {
+          "package_name": "com.example.tyagi.insta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366472440836-9pvrrnlgaglqniqs4vmr6ac19krekub5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "366472440836-9pvrrnlgaglqniqs4vmr6ac19krekub5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9SfWHY-_pOFNpsl8XN9qLiOOmoV6Ip10"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
