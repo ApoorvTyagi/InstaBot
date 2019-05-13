@@ -58,7 +58,7 @@ public class bot extends AppCompatActivity implements View.OnClickListener {
 
         initChatView();
 
-        final LanguageConfig config = new LanguageConfig("ja", "1f47afa9d1cd4828967deadc2dbb7354");
+        final LanguageConfig config = new LanguageConfig("ja", "XXXXXXXXXXXXXXXXXXXXX");
         initService(config);
     }
 
