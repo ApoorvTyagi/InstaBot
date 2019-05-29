@@ -11,3 +11,4 @@ This Chatbot can tell you jokes along with having some nice small talks with the
 If you like the talk you can always donate as per your view using our paypal integrated service inside the app.
 
 ###### P.S. InstaBot has nothing to do with instagram, it's just a name i thought would be cool 
+
