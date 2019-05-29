@@ -1,5 +1,5 @@
 # InstaBot
-A ChatBot that can make your with PayPal Payment and Firebase Login Integration
+A ChatBot Service with the intergration of PayPal Payments api and Firebase Login authentication and security.
 
 ## Authentication
 The login and signup to the app are handled by Firebase Authentication along with all the necessary functions of Forgot Password , number of attempts of unsucessfull login.
